@@ -2,6 +2,7 @@
 package dog
 
 import "fmt"
+
 //Years converts from human years to dog years
 func Years(years int) (int, error) {
 	if years < 1 {
