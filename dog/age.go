@@ -1,4 +1,4 @@
-// Package dog is you best friend
+// Package dog is your best friend
 package dog
 
 import "fmt"
